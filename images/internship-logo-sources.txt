@@ -1,0 +1,16 @@
+Downloaded logo assets
+
+Shoppers Stop
+https://corporate.shoppersstop.com/wp-content/uploads/2023/07/ss-logo.jpg
+
+Pantaloons (used on the Jaipur and Noida cards)
+https://imagescdn.pantaloons.com/img/app/brands/pantaloons/pantaloons-logo-v2.svg
+
+Max Fashion
+https://i1.lmsin.net/website_images/ae/logos/header/logo-max.svg
+
+Mahashankh: PNG regenerated from the user's supplied MAHASHANKH FASHION logo reference using the built-in image_gen tool.
+Asset: internship-mahashankh-fashion-logo.png
+Prompt: internship-mahashankh-fashion-logo.prompt.txt
+
+Zi and Co (Delhi): no verified logo found. Company name retained as text pending a source from the user.

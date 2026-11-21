@@ -1,0 +1,3 @@
+Edited with the built-in image_gen tool.
+
+Remove only the dark green background from this MAHASHANKH FASHION logo, making it genuinely transparent including gaps inside the gold emblem and letters. Preserve the gold flame/leaf emblem, metallic shading, exact text MAHASHANKH and FASHION, typography, positioning, proportions and sharp edges. No redesign, no added elements, no background color, no shadow or halo. Output transparent PNG.

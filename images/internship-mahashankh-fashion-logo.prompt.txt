@@ -1,0 +1,3 @@
+Generated with the built-in image_gen tool using the user-supplied logo reference.
+
+Recreate the supplied MAHASHANKH FASHION logo reference as a crisp high-resolution PNG for a website internship company card. Match the reference faithfully: square-ish dark forest green background, centered elegant metallic gold stylized flame/leaf emblem with curved stem, gold serif uppercase MAHASHANKH and smaller uppercase FASHION beneath it. Exact text: MAHASHANKH / FASHION. Preserve composition, colors, typography character and emblem shape from reference. Clean sharp edges, polished gold shading. No additional text or objects. Opaque dark green background as in reference.
