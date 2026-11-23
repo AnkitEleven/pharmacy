@@ -18043,7 +18043,7 @@ body.sticky-cta-hidden .back-to-top {
 /* College reference hero proofs */
 .college-reference-hero__proofs {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   padding: 16px 14px;
   border: 1px solid #ffffff50;
   border-radius: 15px;
@@ -18058,11 +18058,13 @@ body.sticky-cta-hidden .back-to-top {
 
 .college-reference-hero__proofs > div {
   display: flex;
+  flex-direction: column;
   align-items: center;
+  text-align: center;
   gap: 8px;
   flex: 1;
   min-width: 0;
-  padding-right: 8px;
+  padding: 0 6px;
 }
 
 .college-reference-hero__proofs > div + div {
@@ -18089,6 +18091,7 @@ body.sticky-cta-hidden .back-to-top {
   font-size: 12px;
   line-height: 1.35;
   color: #fff;
+  text-align: center;
 }
 
 .college-reference-hero__proof-copy strong {
@@ -18103,10 +18106,13 @@ body.sticky-cta-hidden .back-to-top {
     grid-template-columns: repeat(2, 1fr);
     width: 100%;
     max-width: 100%;
-    gap: 12px;
+    gap: 14px 10px;
   }
   .college-reference-hero__proofs > div + div {
     border-left: none;
     padding-left: 0;
+  }
+  .college-reference-hero__proofs > div {
+    padding: 0 4px;
   }
 }
